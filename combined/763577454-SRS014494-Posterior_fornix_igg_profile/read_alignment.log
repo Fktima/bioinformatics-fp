@@ -1,0 +1,2 @@
+b''
+b'20000 reads; of these:\n  20000 (100.00%) were unpaired; of these:\n    18999 (95.00%) aligned 0 times\n    994 (4.97%) aligned exactly 1 time\n    7 (0.04%) aligned >1 times\n5.00% overall alignment rate\n'
