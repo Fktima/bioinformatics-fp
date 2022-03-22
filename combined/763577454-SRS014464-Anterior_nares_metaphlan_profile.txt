@@ -1,0 +1,11 @@
+#mpa_v31_CHOCOPhlAn_201901
+#/Users/fatemehkamalvand/opt/miniconda3/bin/metaphlan 763577454-SRS014464-Anterior_nares.fasta --input_type fasta
+#SampleID	Metaphlan_Analysis
+#clade_name	NCBI_tax_id	relative_abundance	additional_species
+k__Bacteria	2	100.0	
+k__Bacteria|p__Proteobacteria	2|1224	100.0	
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria	2|1224|1236	100.0	
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales	2|1224|1236|72274	100.0	
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Moraxellaceae	2|1224|1236|72274|468	100.0	
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Moraxellaceae|g__Moraxella	2|1224|1236|72274|468|475	100.0	
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Moraxellaceae|g__Moraxella|s__Moraxella_nonliquefaciens	2|1224|1236|72274|468|475|478	100.0	

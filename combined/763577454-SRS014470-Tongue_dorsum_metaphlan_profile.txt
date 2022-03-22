@@ -1,0 +1,17 @@
+#mpa_v31_CHOCOPhlAn_201901
+#/Users/fatemehkamalvand/opt/miniconda3/bin/metaphlan 763577454-SRS014470-Tongue_dorsum.fasta --input_type fasta
+#SampleID	Metaphlan_Analysis
+#clade_name	NCBI_tax_id	relative_abundance	additional_species
+k__Bacteria	2	100.0	
+k__Bacteria|p__Firmicutes	2|1239	86.86154	
+k__Bacteria|p__Bacteroidetes	2|976	13.13846	
+k__Bacteria|p__Firmicutes|c__Negativicutes	2|1239|909932	86.86154	
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia	2|976|200643	13.13846	
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales	2|1239|909932|1843489	86.86154	
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales	2|976|200643|171549	13.13846	
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae	2|1239|909932|1843489|31977	86.86154	
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae	2|976|200643|171549|171552	13.13846	
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella	2|1239|909932|1843489|31977|29465	86.86154	
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella	2|976|200643|171549|171552|838	13.13846	
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella|s__Veillonella_sp_DORA_A_3_16_22	2|1239|909932|1843489|31977|29465|1403932	86.86154	
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_histicola	2|976|200643|171549|171552|838|470565	13.13846	
