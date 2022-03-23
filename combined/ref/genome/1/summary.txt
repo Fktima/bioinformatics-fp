@@ -1,0 +1,13 @@
+#Summary
+#Generated on	Sun Aug 28 18:38:05 BST 2022
+#Version	5
+chroms	1
+bases	71570082
+defined	11422433
+undefined	60147649
+contigs	120259
+scaffolds	120257
+interpad	500
+source	/Users/fatemehkamalvand/PycharmProjects/bioinformatics-fp/combined/combined.fasta
+bytes	16611576
+last modified	1661293492602

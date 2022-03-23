@@ -1,0 +1,4 @@
+species_id	species_name	marker_length	marker_count	percent_markers_detected	total_mapped_reads	avg_read_depth	species_abund
+OTU-10096	Lactobacillus crispatus	267507	294	58.50340136054422	3432	0.9592982613539085	58.79253110628324
+OTU-04722	Bacteroides stercoris	6105	7	42.857142857142854	32	0.3931203931203931	24.093177140157692
+OTU-02547	Corynebacterium sp.	669408	300	60.666666666666664	2528	0.2792482312730054	17.114291753559066

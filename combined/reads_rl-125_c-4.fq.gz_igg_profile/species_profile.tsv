@@ -1,0 +1,3 @@
+species_id	species_name	marker_length	marker_count	percent_markers_detected	total_mapped_reads	avg_read_depth	species_abund
+OTU-10096	Lactobacillus crispatus	267507	294	47.95918367346939	1532	0.5575891471998864	78.75357316672282
+OTU-02547	Corynebacterium sp.	669408	300	45.666666666666664	1126	0.1504284382618672	21.246426833277177
